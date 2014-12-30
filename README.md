@@ -5,7 +5,7 @@ A ROS project that contains *only* the message files necessary for connecting RO
 are for defining BURLAP state ROS messages. In the future, we plan to add message support for communicating ROS-generated 
 reward/termination values and BURLAP domain specifications. 
 
-The state messages are taken from Kevin Farrell's work on
+The state messages are taken from Kevin Farrell and Stephen Brawner's work on
 [connecting BURALP and ROS for a cooking domain with ROSJava](https://github.com/h2r/burlap_rosjava). 
 
 You can use these messages either in conjunciton with a ROSJava project or by using the 
