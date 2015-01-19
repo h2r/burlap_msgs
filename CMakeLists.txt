@@ -50,6 +50,7 @@ find_package(catkin REQUIRED COMPONENTS
    burlap_value.msg
    burlap_object.msg
    burlap_state.msg
+   timed_action.msg
  )
 
 ## Generate services in the 'srv' folder
